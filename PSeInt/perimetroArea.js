@@ -5,3 +5,10 @@
 let largo = parseInt(prompt("Ingrese el largo del rectángulo"));
 
 let ancho = parseInt(prompt("Ingrese el ancho del rectángulo"));
+
+let perimetro = 2 * (largo + ancho);
+
+let area = largo * ancho;
+
+document.writeln("<p>El perímetro del rectángulo es: </p>" + perimetro);
+document.writeln("<p>El área del rectángulo es: </p>" + area);
