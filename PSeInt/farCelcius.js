@@ -4,6 +4,6 @@
 
 let fahrenheit = parseInt(prompt("Ingrese la temperatura en Fahrenheit"));
 
-let celsius = (5/9) * (fahrenheit-32);
+let celsius = (5/9) * (fahrenheit - 32);
 
 document.writeln(celsius);
