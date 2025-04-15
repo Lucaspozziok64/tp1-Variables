@@ -34,12 +34,15 @@ Repositorio con ejercicios resueltos de **JavaScript** (variables, condiciones) 
    git clone https://github.com/Lucaspozziok64/tp1-Variables.git
 
 2. Abre los archivos .js en el navegador o en la consola de tu IDE
-1. Navegador: Usa la consola del navegador o un HTML con script
+3. Navegador: Usa la consola del navegador o un HTML con script
+4. Puedes usar alert, prompt, console.log o document.write según el ejercicio.
 
+---
 
 📚 Recursos adicionales
 - [Documentacion de JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript/)
 
-✨ Desarrollado con ❤️ por [Lucas Figueroa](https://github.com/Lucaspozziok64)
-
-📧 Contacto: lukafigueroa64@gmail.com | @Lucaspozziok64 | 
+--
+  
+👨‍💻 Autor
+✨  [Lucas Figueroa](https://github.com/Lucaspozziok64)
